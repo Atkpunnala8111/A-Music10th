@@ -33,8 +33,8 @@ module.exports = {
 
       const embed = new EmbedBuilder()
          .setColor('#0099ff')
-      .setTitle('💎 Prime Music Bot')
-      .setDescription('Welcome to the Music Bot!\n\n- Here are the available commands:\n\n' +
+      .setTitle('💎  Atk is here')
+      .setDescription('Welcome to the A-Music Bot!\n\n- Here are the available commands:\n\n' +
         '**/play :** Start playing the songs.\n' +
         '**/ping :** check bot latency.\n' +
         '**/support :** Display support server info');
